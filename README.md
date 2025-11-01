@@ -9,6 +9,7 @@ This desktop application allows users to **register, create bank accounts, manag
 ---
 
 ## Table of Contents
+- [Installation](#installation)
 - [Features](#features)
 - [Modules](#modules)
 - [Technologies](#technologies)
@@ -16,7 +17,13 @@ This desktop application allows users to **register, create bank accounts, manag
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Installation](#installation)
+
+---
+## Installation
+1. **Clone the repository:**
+```bash
+git clone https://github.com/your-username/banking-management-system.git.
+```
 
 ---
 
@@ -102,8 +109,3 @@ Please follow standard Git workflow when contributing.
 ## License
 
 - This project is licensed under the MIT License – see the LICENSE file for details.
-
-## Installation
-1. **Clone the repository:**
-```bash
-git clone https://github.com/your-username/banking-management-system.git
