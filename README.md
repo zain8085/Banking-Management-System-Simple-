@@ -16,6 +16,7 @@ This desktop application allows users to **register, create bank accounts, manag
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Installation](#installation)
 
 ---
 
