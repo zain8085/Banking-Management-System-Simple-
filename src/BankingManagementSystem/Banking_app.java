@@ -7,9 +7,9 @@ import java.sql.SQLException;
 import java.util.Scanner;
 
 public class Banking_app {
-    private static final String url = "jdbc:mysql://127.0.0.1:3306/banking_app";
-    private static final String user = "root";
-    private static final String pass = "Z@in9740";
+    private static final String url = <Database Url>;
+    private static final String user = <UserName>;
+    private static final String pass = <Password>;
 
     public static void main(String[] args) {
         try {
